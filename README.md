@@ -1,0 +1,1 @@
+Un serie di kata per migliorare l'utilizzo del proprio editor 
